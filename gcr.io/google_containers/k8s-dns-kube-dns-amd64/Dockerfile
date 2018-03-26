@@ -1,0 +1,1 @@
+FROM gcr.io/google_contaioners/k8s-dns-kube-dns-amd64:v1.14.5
